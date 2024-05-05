@@ -1,0 +1,4 @@
+streamlit==1.10.0  # Use the specific version you need
+yfinance
+pandas
+matplotlib
